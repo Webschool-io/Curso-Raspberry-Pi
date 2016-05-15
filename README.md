@@ -4,7 +4,7 @@ Curso sobre Rapsberry Py da Webschool.io
 
 ## O Curso
 
-O curos será disponibilizado via CROWDFUNDING que o valor será R$ VALOR_DO_RAPS + 50, onde será ensinado seu uso e a criação do sistema de MEDIA CENTER da Webschool.
+O curso será disponibilizado via CROWDFUNDING que o valor será R$ VALOR_DO_RAPS + 50, onde será ensinado seu uso e a criação do sistema de MEDIA CENTER da Webschool.
 
 O rapsberry já virá instalado com esse sistema e contendo TODOS nosso vídeos localmente e via torrent, pois eles poderão configurar para deixar compartilhando esses vídeos para ajudar o conhecimento a se espalhar sem necessidade de servidores centrais, de forma descentralizada. 
 
